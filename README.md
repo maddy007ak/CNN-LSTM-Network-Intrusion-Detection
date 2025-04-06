@@ -40,6 +40,7 @@ intrusion_detection/
 git clone https://github.com/yourusername/intrusion_detection.git
 cd intrusion_detection
 pip install -r requirements.txt
+python train.py
 python app.py
 ```
 
